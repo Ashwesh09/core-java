@@ -3,6 +3,11 @@ package SpringConfigDemo;
 public class MyBean {
     private String firstName;
     private String lastName;
+    public MyBean(String firstName, String lastName) {
+        this.firstName = firstName;
+        this.lastName = lastName;
+    }
+
     public void setFirstName(String firstName) {
         this.firstName = firstName;
     }
