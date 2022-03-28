@@ -1,0 +1,429 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch FileReaderDemo",
+      "request": "launch",
+      "mainClass": "SpringConfigDemo.FileReaderDemo",
+      "projectName": "core-java_3f213937"
+    },
+    {
+      "type": "java",
+      "name": "Launch TFandIDFTextAnalysis",
+      "request": "launch",
+      "mainClass": "tfandidf.TFandIDFTextAnalysis",
+      "projectName": "core-java_3f213937"
+    },
+    {
+      "type": "java",
+      "name": "Launch Main",
+      "request": "launch",
+      "mainClass": "designPatterns.MainSample.Main",
+      "projectName": "core-java_3f213937"
+    },
+    {
+      "type": "java",
+      "name": "Launch FactoryMethodsDemo",
+      "request": "launch",
+      "mainClass": "designPatterns.FactoryMethodsDemo",
+      "projectName": "core-java_3f213937"
+    },
+    {
+      "type": "java",
+      "name": "Launch Bar",
+      "request": "launch",
+      "mainClass": "basicinjections.Bar",
+      "projectName": "core-java_3f213937"
+    },
+    {
+      "type": "java",
+      "name": "Launch LinkedListDemo",
+      "request": "launch",
+      "mainClass": "Week6.LinkedListDemo",
+      "projectName": "core-java_3f213937"
+    },
+    {
+      "type": "java",
+      "name": "Launch StackDemo",
+      "request": "launch",
+      "mainClass": "Week6.StackDemo",
+      "projectName": "core-java_3f213937"
+    },
+    {
+      "type": "java",
+      "name": "Launch BehavioralPatternDemo",
+      "request": "launch",
+      "mainClass": "designPatterns.BehavioralPattern.BehavioralPatternDemo",
+      "projectName": "core-java_3f213937"
+    },
+    {
+      "type": "java",
+      "name": "Launch TFandIDFtextAnalysis",
+      "request": "launch",
+      "mainClass": "week4.TFandIDFtextAnalysis",
+      "projectName": "core-java_3f213937"
+    },
+    {
+      "type": "java",
+      "name": "Launch AdapterPatternDemo",
+      "request": "launch",
+      "mainClass": "designPatterns.StructuralPattern.AdapterPatternDemo",
+      "projectName": "core-java_3f213937"
+    },
+    {
+      "type": "java",
+      "name": "Launch DesginPatternAllDesigns",
+      "request": "launch",
+      "mainClass": "designPatterns.DesginPatternAllDesigns",
+      "projectName": "core-java_3f213937"
+    },
+    {
+      "type": "java",
+      "name": "Launch BirdgeWithAbsfac",
+      "request": "launch",
+      "mainClass": "designPatterns.StrucuralPattern.BirdgeWithAbsfac",
+      "projectName": "core-java_3f213937"
+    },
+    {
+      "type": "java",
+      "name": "Launch BridgePatternDemo",
+      "request": "launch",
+      "mainClass": "designPatterns.StrucuralPattern.BridgePatternDemo",
+      "projectName": "core-java_3f213937"
+    },
+    {
+      "type": "java",
+      "name": "Launch AbstractFactoryDemo",
+      "request": "launch",
+      "mainClass": "designPatterns.AbstractFactoryDemo",
+      "projectName": "core-java_3f213937"
+    },
+    {
+      "type": "java",
+      "name": "Launch BuilderDemoCarBuilder",
+      "request": "launch",
+      "mainClass": "designPatterns.BuilderDemoCarBuilder",
+      "projectName": "core-java_3f213937"
+    },
+    {
+      "type": "java",
+      "name": "Launch BuilderDemo",
+      "request": "launch",
+      "mainClass": "designPatterns.BuilderDemo",
+      "projectName": "core-java_3f213937"
+    },
+    {
+      "type": "java",
+      "name": "Launch BuilderDemo",
+      "request": "launch",
+      "mainClass": "BuilderDemo",
+      "projectName": "core-java_3f213937"
+    },
+    {
+      "type": "java",
+      "name": "Launch FactoryMethodsDemo",
+      "request": "launch",
+      "mainClass": "FactoryMethodsDemo",
+      "projectName": "core-java_3f213937"
+    },
+    {
+      "type": "java",
+      "name": "Launch ArrayExcersice",
+      "request": "launch",
+      "mainClass": "Week2.ArrayExcersice"
+    },
+    {
+      "type": "java",
+      "name": "Launch HashMapIteration",
+      "request": "launch",
+      "mainClass": "Week2.HashMapIteration"
+    },
+    {
+      "type": "java",
+      "name": "Launch TriangleType",
+      "request": "launch",
+      "mainClass": "Week2.TriangleType"
+    },
+    {
+      "type": "java",
+      "name": "Launch SwapNumbers",
+      "request": "launch",
+      "mainClass": "Week2.SwapNumbers"
+    },
+    {
+      "type": "java",
+      "name": "Launch StaticandFinal",
+      "request": "launch",
+      "mainClass": "Week2.StaticandFinal"
+    },
+    {
+      "type": "java",
+      "name": "Launch SimpleCalculator",
+      "request": "launch",
+      "mainClass": "Week2.SimpleCalculator"
+    },
+    {
+      "type": "java",
+      "name": "Launch PrimeNumber",
+      "request": "launch",
+      "mainClass": "Week2.PrimeNumber"
+    },
+    {
+      "type": "java",
+      "name": "Launch MatrixMultiply",
+      "request": "launch",
+      "mainClass": "Week2.MatrixMultiply"
+    },
+    {
+      "type": "java",
+      "name": "Launch LoopSum",
+      "request": "launch",
+      "mainClass": "Week2.LoopSum"
+    },
+    {
+      "type": "java",
+      "name": "Launch ConstructorOverld",
+      "request": "launch",
+      "mainClass": "Week2.ConstructorOverld"
+    },
+    {
+      "type": "java",
+      "name": "Launch ComplexPattern",
+      "request": "launch",
+      "mainClass": "Week2.ComplexPattern"
+    },
+    {
+      "type": "java",
+      "name": "Launch SportsINheri",
+      "request": "launch",
+      "mainClass": "SportsINheri"
+    },
+    {
+      "type": "java",
+      "name": "Launch PloygonInterface",
+      "request": "launch",
+      "mainClass": "PloygonInterface"
+    },
+    {
+      "type": "java",
+      "name": "Launch modifyInheri",
+      "request": "launch",
+      "mainClass": "modifyInheri"
+    },
+    {
+      "type": "java",
+      "name": "Launch StackDemo",
+      "request": "launch",
+      "mainClass": "StackDemo"
+    },
+    {
+      "type": "java",
+      "name": "Launch FinobacciSeries",
+      "request": "launch",
+      "mainClass": "FinobacciSeries"
+    },
+    {
+      "type": "java",
+      "name": "Launch Example",
+      "request": "launch",
+      "mainClass": "Week5.UML.Example"
+    },
+    {
+      "type": "java",
+      "name": "Launch Task1",
+      "request": "launch",
+      "mainClass": "Week5.taskAndOther.Task1"
+    },
+    {
+      "type": "java",
+      "name": "Launch VehicalReg",
+      "request": "launch",
+      "mainClass": "Week5.Reflection.VehicalReg"
+    },
+    {
+      "type": "java",
+      "name": "Launch FetchUser",
+      "request": "launch",
+      "mainClass": "Week5.Reflection.user_data_migration.FetchUser"
+    },
+    {
+      "type": "java",
+      "name": "Launch SaveUser",
+      "request": "launch",
+      "mainClass": "Week5.Reflection.user_data_migration.SaveUser"
+    },
+    {
+      "type": "java",
+      "name": "Launch NumberClassInGenerics",
+      "request": "launch",
+      "mainClass": "Week5.Generics.NumberClassInGenerics"
+    },
+    {
+      "type": "java",
+      "name": "Launch StudentStaticstics",
+      "request": "launch",
+      "mainClass": "StudentStaticstics"
+    },
+    {
+      "type": "java",
+      "name": "Launch SortingCollections",
+      "request": "launch",
+      "mainClass": "SortingCollections"
+    },
+    {
+      "type": "java",
+      "name": "Launch MapsEg",
+      "request": "launch",
+      "mainClass": "MapsEg"
+    },
+    {
+      "type": "java",
+      "name": "Launch TrimingString",
+      "request": "launch",
+      "mainClass": "week4.TrimingString"
+    },
+    {
+      "type": "java",
+      "name": "Launch StringsExample",
+      "request": "launch",
+      "mainClass": "week4.StringsExample"
+    },
+    {
+      "type": "java",
+      "name": "Launch StringSecret",
+      "request": "launch",
+      "mainClass": "week4.StringSecret"
+    },
+    {
+      "type": "java",
+      "name": "Launch StringReverse",
+      "request": "launch",
+      "mainClass": "week4.StringReverse"
+    },
+    {
+      "type": "java",
+      "name": "Launch RegisExceptionH",
+      "request": "launch",
+      "mainClass": "week4.RegisExceptionH"
+    },
+    {
+      "type": "java",
+      "name": "Launch FileHandelingEg",
+      "request": "launch",
+      "mainClass": "week4.FileHandelingEg"
+    },
+    {
+      "type": "java",
+      "name": "Launch Factorial",
+      "request": "launch",
+      "mainClass": "week4.Factorial"
+    },
+    {
+      "type": "java",
+      "name": "Launch ConcatinateStrings",
+      "request": "launch",
+      "mainClass": "week4.ConcatinateStrings"
+    },
+    {
+      "type": "java",
+      "name": "Launch example",
+      "request": "launch",
+      "mainClass": "week4.MultithreadingInJava.example"
+    },
+    {
+      "type": "java",
+      "name": "Launch BinarySearch",
+      "request": "launch",
+      "mainClass": "BinarySearch"
+    },
+    {
+      "type": "java",
+      "name": "Launch IAmImutableDriver",
+      "request": "launch",
+      "mainClass": "session14.IAmImutableDriver"
+    },
+    {
+      "type": "java",
+      "name": "Launch HashcodeEquals",
+      "request": "launch",
+      "mainClass": "HashcodeEquals"
+    },
+    {
+      "type": "java",
+      "name": "Launch hashcodeEquals",
+      "request": "launch",
+      "mainClass": "hashcodeEquals"
+    },
+    {
+      "type": "java",
+      "name": "Launch ArmstrongNumAndPrimeNo",
+      "request": "launch",
+      "mainClass": "Week2.ArmstrongNumAndPrimeNo"
+    },
+    {
+      "type": "java",
+      "name": "Launch addSample",
+      "request": "launch",
+      "mainClass": "Week2.addSample"
+    },
+    {
+      "type": "java",
+      "name": "Launch InterfaceDemo",
+      "request": "launch",
+      "mainClass": "InterfaceDemo"
+    },
+    {
+      "type": "java",
+      "name": "Launch Sample",
+      "request": "launch",
+      "mainClass": "Sample"
+    },
+    {
+      "type": "java",
+      "name": "Launch CollectionsUsageDemo",
+      "request": "launch",
+      "mainClass": "CollectionsUsageDemo"
+    },
+    {
+      "type": "java",
+      "name": "Launch BankAccounts",
+      "request": "launch",
+      "mainClass": "BankAccounts"
+    },
+    {
+      "type": "java",
+      "name": "Launch MergerMaps",
+      "request": "launch",
+      "mainClass": "MergerMaps"
+    },
+    {
+      "type": "java",
+      "name": "Launch EmployeeStats",
+      "request": "launch",
+      "mainClass": "EmployeeStats"
+    },
+    {
+      "type": "java",
+      "name": "Launch AddressMain",
+      "request": "launch",
+      "mainClass": "AddressMain"
+    },
+    {
+      "type": "java",
+      "name": "Launch Main",
+      "request": "launch",
+      "mainClass": "Main"
+    },
+    {
+      "type": "pwa-chrome",
+      "request": "launch",
+      "name": "Launch Chrome against localhost",
+      "url": "http://localhost:8080",
+      "webRoot": "${workspaceFolder}"
+    }
+  ]
+}
