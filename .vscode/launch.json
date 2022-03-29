@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch MainApp",
+      "request": "launch",
+      "mainClass": "BeanConfigDemo.MainApp",
+      "projectName": "core-java_3f213937"
+    },
+    {
+      "type": "java",
       "name": "Launch UCtoINR",
       "request": "launch",
       "mainClass": "annotationExample.UCtoINR",
