@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch UCtoINR",
+      "request": "launch",
+      "mainClass": "annotationExample.UCtoINR",
+      "projectName": "core-java_3f213937"
+    },
+    {
+      "type": "java",
       "name": "Launch FileReaderDemo",
       "request": "launch",
       "mainClass": "SpringConfigDemo.FileReaderDemo",
