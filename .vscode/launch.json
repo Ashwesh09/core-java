@@ -6,6 +6,48 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch ReverseIndWords",
+      "request": "launch",
+      "mainClass": "Week6.ReverseIndWords",
+      "projectName": "core-java_3f213937"
+    },
+    {
+      "type": "java",
+      "name": "Launch FindDuplicates",
+      "request": "launch",
+      "mainClass": "Week6.FindDuplicates",
+      "projectName": "core-java_3f213937"
+    },
+    {
+      "type": "java",
+      "name": "Launch Overriding",
+      "request": "launch",
+      "mainClass": "Week6.SQL.Overriding",
+      "projectName": "core-java_3f213937"
+    },
+    {
+      "type": "java",
+      "name": "Launch overriding",
+      "request": "launch",
+      "mainClass": "Week6.SQL.overriding",
+      "projectName": "core-java_3f213937"
+    },
+    {
+      "type": "java",
+      "name": "Launch ImmutableClass",
+      "request": "launch",
+      "mainClass": "week4.ImmutableClass",
+      "projectName": "core-java_3f213937"
+    },
+    {
+      "type": "java",
+      "name": "Launch TextToEmoji",
+      "request": "launch",
+      "mainClass": "annotationExample.TextToEmoji",
+      "projectName": "core-java_3f213937"
+    },
+    {
+      "type": "java",
       "name": "Launch MainApp",
       "request": "launch",
       "mainClass": "BeanConfigDemo.MainApp",

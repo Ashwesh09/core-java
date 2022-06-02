@@ -153,6 +153,17 @@ class LinkedList {
         }
         head = prev; 
     }
+    public int getFirstElement(int k){
+        Node temp = head;
+        int count = 1;
+        while(temp.next != null){
+            if(temp.data == k)
+                return count;
+            temp = temp.next;
+            count++;
+        }
+        return -1;
+    }
 }
 public class LinkedListDemo {
     public static void main(String[] args) {
@@ -164,16 +175,17 @@ public class LinkedListDemo {
         list.insertAtEnd(60);
         list.insertInMiddle(15, 3);
         list.display();
-        //list.deleteAtIndex(6);
-        //list.removeElement(60);
-        list.replaceAt(4, 90);
-        System.out.println("Before reverse:");
-        list.display();
-        System.out.println("After reverse:");
-        list.reverse();
-        list.display();
-        // System.out.println("Element at " + 6 + " is : " + list.getValueAtIndex(6));
-        // System.out.println("Element "+ 60 + " is at index : "+list.indexOf(90));
-        System.out.println("\nSize of linked list: " + list.size());
+        // //list.deleteAtIndex(6);
+        // //list.removeElement(60);
+        // list.replaceAt(4, 90);
+        // System.out.println("Before reverse:");
+        // list.display();
+        // System.out.println("After reverse:");
+        // list.reverse();
+        // list.display();
+        // // System.out.println("Element at " + 6 + " is : " + list.getValueAtIndex(6));
+        // // System.out.println("Element "+ 60 + " is at index : "+list.indexOf(90));
+        // System.out.println("\nSize of linked list: " + list.size());
+        System.out.println("Element : " + list.getFirstElement(6));
     }
 }
